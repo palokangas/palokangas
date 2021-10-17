@@ -1,0 +1,7 @@
+- 👋 Hi, I’m currently working as a Full-Stack Developer in radio broadcasting automation
+- 👀 I try everyday to get better with the current stack I'm using (RoR, React, REST, db's, Docker, Jenkins etc.)
+- 📈 I am especially interested in data analysis, particularily NLP.
+- 🌱 I’m currently dipping my toes into functional programming (elisp, clojure) and deeper into AWS topics.
+- 🥸 I worked in journalism, R&D, media policy research and journalism education for 20 years before jumping to IT.
+- 👟 Fun fact: to defy genetics, I also run long distances (my marathon record is 3:53)
+- 📫 To reach me, send mail: firstname at lastname dot net
